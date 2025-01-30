@@ -1,18 +1,18 @@
 [
     {
         "title": "couscous1",
-        "image_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/img1.jpg",
-        "html_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/recipe1.html"
+        "image_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/img1.jpg",
+        "html_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/recipe1.html"
     },
     {
         "title": "couscous2",
-        "image_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/img2.jpg",
-        "html_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/recipe2.html"
+        "image_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/img2.jpg",
+        "html_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/recipe2.html"
     },
     {
         "title": "couscous3",
-        "image_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/img3.jpg",
-        "html_url": "https://raw.githubusercontent.com/mohcine1982/TestKSKS/main/recipe3.html"
+        "image_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/img3.jpg",
+        "html_url": "https://raw.githubusercontent.com/mohcine1982/RecipeData/main/recipe3.html"
     }
 ]
 
